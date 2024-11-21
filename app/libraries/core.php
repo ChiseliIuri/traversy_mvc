@@ -28,7 +28,6 @@
             // Instantiate controller class
             $this->currentController = new $this->currentController;
 
-
         }
 
         public function getUrl(){
