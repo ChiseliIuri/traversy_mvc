@@ -1,5 +1,5 @@
 <?php
-    class Pages{
+    class Pages extends Controller{
         public function __construct(){
 
         }
@@ -9,7 +9,7 @@
         }
 
         public function about($id3){
-            print_r($id3);
+
         }
     }
     
